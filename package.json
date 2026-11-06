@@ -1,6 +1,6 @@
 {
-  "name": "shadcn-vue-landing-page",
-  "description": "Shadcn/Vue landing page template using Vue, Shadcn/Vue + TypeScript + Tailwind CSS.",
+  "name": "qual-e-a-musica",
+  "description": "Jogo musical criado com Vue 3, TypeScript e Vite.",
   "version": "0.1.1",
   "author": {
     "name": "Leopoldo Miranda",
@@ -10,12 +10,11 @@
   "keywords": [
     "vue",
     "typescript",
-    "shadcn",
-    "shadcn/vue",
+    "vite",
     "tailwind",
-    "landing-page",
-    "template",
-    "responsive-design"
+    "jogo",
+    "musica",
+    "qual-e-a-musica"
   ],
   "type": "module",
   "private": true,

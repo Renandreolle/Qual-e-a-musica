@@ -1,57 +1,14 @@
-# Shadcn/Vue Landing Page Template
+# Qual é a Música?
 
-## <a href="https://www.shadcn-vue.com/" target="_blank">Shadcn-Vue</a> + <a href="https://vuejs.org/" target="_blank">Vue.js</a> + <a href="https://www.typescriptlang.org/" target="_blank">TypeScript</a> + <a href="https://tailwindcss.com/" target="_blank">Tailwind</a>.
+Aplicação de jogo musical construída com Vue 3, TypeScript e Vite. O projeto é executado em ambiente de desenvolvimento e lê as mídias dos jogos nas pastas correspondentes dentro de `public/`.
 
-![Alt text](./public/demo-img.jpg)
-Live demo is now available: <a href="https://shadcn-vue-landing-page.vercel.app" target="_blank">Live Demo</a>
-
-## Sections
-
-- [x] Navbar
-- [x] Sidebar(mobile)
-- [x] Hero
-- [x] Sponsors
-- [x] Benefits
-- [x] Features
-- [x] Services
-- [x] HowItWorks
-- [x] Testimonials
-- [x] Pricing
-- [x] Frequently Asked Questions(FAQ)
-- [x] Team
-- [x] Community
-- [x] Contact
-- [x] Footer
-
-## Features
-
-- [x] Fully Responsive Design
-- [x] User Friendly Navigation
-- [x] Dark Mode
-- [x] Meta tags
-
-## How to install
-
-1. Clone this repositoy:
-
-```bash
-git clone https://github.com/leoMirandaa/shadcn-vue-landing-page.git
-```
-
-2. Go into project
-
-```bash
-cd shadcn-vue-landing-page
-```
-
-3. Install dependencies
+## Executar localmente
 
 ```bash
 npm install
-```
-
-4. Run project
-
-```bash
 npm run dev
 ```
+
+## Mídias dos jogos
+
+Adicione os áudios e vídeos nas pastas de cada jogo em `public/`. Os arquivos devem seguir o padrão de nome esperado pelo respectivo jogo para que título, artista e demais informações sejam identificados automaticamente.
